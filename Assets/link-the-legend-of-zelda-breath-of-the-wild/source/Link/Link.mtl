@@ -1,0 +1,222 @@
+# Blender 3.6.5 MTL File: 'None'
+# www.blender.org
+
+newmtl Mt_Armcover_116_001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Tunica del campeon/armor_116_armcover_alb.png
+
+newmtl Mt_Belt_A
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Link/link_belt_a_alb.png
+
+newmtl Mt_Belt_B_116
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Tunica del campeon/armor_116_belt_b_alb.png
+
+newmtl Mt_Belt_C
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Link/link_belt_c_alb.png
+
+newmtl Mt_Body
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Sheikah Slate/images/Item_ConductorDemo_Alb.png
+
+newmtl Mt_Display
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Sheikah Slate/images/Item_ConductorDemo_Display_Alb.png
+
+newmtl Mt_Earring
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Link/link_earring_alb.png
+
+newmtl Mt_Eye
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Sheikah Slate/images/Item_ConductorDemo_Display_Alb.png
+
+newmtl Mt_Eyeball_L
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Link/link_eyeball_l_alb.png
+
+newmtl Mt_Eyeball_R
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Link/link_eyeball_l_alb.png
+
+newmtl Mt_Eyelashes
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Link/link_eyelashes_alb.png
+
+newmtl Mt_Face_001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Link/link_head_alb.png
+
+newmtl Mt_Gauntlets_116
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Tunica del campeon/armor_116_gauntlets_alb.png
+
+newmtl Mt_Glove_116
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Tunica del campeon/armor_116_glove_alb.png
+
+newmtl Mt_Hair
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Cabello Predeterminado/link_hair_alb.png
+
+newmtl Mt_Hairband
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Cabello Predeterminado/link_hair_alb.png
+
+newmtl Mt_Head
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Link/link_head_alb.png
+
+newmtl Mt_Lower_001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/torso hilyano/armor_001_lower_alb.0.png
+
+newmtl Mt_OrangeLine
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Sheikah Slate/images/Item_ConductorDemo_Alb.png
+
+newmtl Mt_Tunic_116_001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Tunica del campeon/armor_116_tunic_alb.png
+
+newmtl Mt_UnderShirts_116_001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Tunica del campeon/armor_116_undershirts_alb.png
+
+newmtl Mt_Upper_Skin.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/OscarEduardo/Documents/Link (The Legend of Zelda Breath of the Wild )/Tunica del campeon/link_skin_alb.png
