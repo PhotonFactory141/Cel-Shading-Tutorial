@@ -17,7 +17,7 @@ Ejemplo de resultado:
 Este proyecto es de código abierto bajo la licencia **MIT**.
 
 ## 💬 Soporte y comunidad
-- ¿Tienes dudas? Déjalas en los comentarios del [video tutorial](aaa).  
+- ¿Tienes dudas? Déjalas en los comentarios del [video tutorial](https://youtu.be/5gXoq97aWsI).  
 - ¡Dale like al video si te ayudó! 👍
 
 ## 🤝 Contribuciones
